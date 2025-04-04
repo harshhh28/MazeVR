@@ -29,3 +29,5 @@ MazeVR is an immersive virtual reality maze exploration game where players navig
    ./build.sh or ./build-optimized.sh
    ./a.out
    ```
+
+Insprired by https://gitlab.com/UltimaN3rd/3d-maze
